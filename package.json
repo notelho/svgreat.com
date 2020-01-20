@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enbot/svgreat.com.git"
+    "url": "git+https://github.com/notelho/svgreat.com.git"
   },
   "author": "Nathan Botelho",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/enbot/svgreat.com/issues"
+    "url": "https://github.com/notelho/svgreat.com/issues"
   },
-  "homepage": "https://github.com/enbot/svgreat.com#readme",
+  "homepage": "https://github.com/notelho/svgreat.com#readme",
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.26.7",
